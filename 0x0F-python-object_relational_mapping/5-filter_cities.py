@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 This script  takes in the name of a state
